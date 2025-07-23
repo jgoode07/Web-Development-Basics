@@ -1,5 +1,4 @@
 # About Me – HTML Introduction Project
-
 This is a basic personal webpage created for my Web Development Basics course. The goal of this project was to build a simple "About Me" page using only HTML, while demonstrating proper use of semantic and physical tags. It includes a short introduction, some personal interests, and a few of my favourite things.
 
 ## Features
